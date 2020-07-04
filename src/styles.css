@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+h1{
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.jumbotron{
+    background-color: rgba(158, 158, 158, 0.808);
+}
+.navbar{
+    background-color: rgba(0, 0, 0, 0.87);
+    color:white;
+    
+}
+.navbar-toggler{
+    background-color: white;
+}
+.nav-link{
+    color: rgba(255, 255, 255, 0.671);
+}
+.fa{
+    color: rgb(38, 3, 190);
+}
